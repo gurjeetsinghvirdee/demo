@@ -8,6 +8,7 @@
 //href: the page where the user will be redirected after clicking in the element
 
 const clones = [
+    
     {
         "id": "APPLE",
         "name": "Apple Clone",
